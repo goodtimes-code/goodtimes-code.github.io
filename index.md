@@ -2,5 +2,5 @@
 layout: default
 ---
 
-# Hello World2
-This is the first paragraph.
+# Laser control software
+Control showlasers live or by automation timeline with the free, open source and cross-platform software [osc2laser](https://github.com/goodtimes-code/osc2laser).
