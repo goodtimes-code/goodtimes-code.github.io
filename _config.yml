@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: goodtimes | laser crew
 description: Interactive showlaser technology: lasershows, laser art, laser games, laser control software
+site.url: www.goodtimes.technology
