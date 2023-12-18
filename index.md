@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "goodtimes | laser crew - lasershows, laser art, laser games, laser control software"
 ---
 
 # Laser control software
