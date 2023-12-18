@@ -7,7 +7,10 @@ title: "goodtimes | laser crew - lasershows, laser art, laser games, laser contr
 ## osc2laser
 Control showlasers live or by automation timeline with our free, open source and cross-platform software [osc2laser](https://github.com/goodtimes-code/osc2laser).
   - [Source code](https://github.com/goodtimes-code/osc2laser)
-  - [Support & community](https://discord.gg/Yp24ZC4n)
+
+## msvg2ild
+Convert multiple SVG files into a single animated ILDA file (ild).
+  - [Source code](https://github.com/goodtimes-code/msvg2ild)
   
 # Lasershow ArtWorks
 - [Lasershow "Eye of the tiger"](https://www.youtube.com/watch?v=MXgKLad80P0) (Beam and graphic show to music)
@@ -20,7 +23,6 @@ Control showlasers live or by automation timeline with our free, open source and
 - [LaserFreak forum](https://www.laserfreak.net/forum/)
 - [Animated Lines](https://www.animated-lines.com/en/) (animated ILDA files)
 
-# Contact me
-Oliver\
-*Laser Safety Officer*\
-Mail: service@goodtimes.technology
+# Contact
+Discord: [Join Discord server](https://discord.gg/Yp24ZC4n) (community, support)
+Mail: service@goodtimes.technology (bookings, inquiries)
