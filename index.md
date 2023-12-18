@@ -3,7 +3,8 @@ layout: default
 title: "goodtimes | laser crew - lasershows, laser art, laser games, laser control software"
 ---
 
-# Laser control software
+# Laser software
+## osc2laser
 Control showlasers live or by automation timeline with our free, open source and cross-platform software [osc2laser](https://github.com/goodtimes-code/osc2laser).
   - [Source code](https://github.com/goodtimes-code/osc2laser)
   - [Support & community](https://discord.gg/Yp24ZC4n)
