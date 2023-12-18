@@ -15,4 +15,4 @@ Control showlasers live or by automation timeline with our free, open source and
 # Contact me
 Oliver\
 *Laser Safety Officer*\
-Mail: service@goodtimes.technology
+Mail: service@goodtimes.technology 
