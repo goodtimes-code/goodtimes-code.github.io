@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Partners - goodtimes | laser crew
 ---
 
 # Partners
