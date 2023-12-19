@@ -8,7 +8,7 @@ The **goodtimes | laser crew** is an international collective of laser enthusias
 
 # Laser software
 ## osc2laser
-Control showlasers live or by automation timeline with our free, open source and cross-platform software [osc2laser](https://github.com/goodtimes-code/osc2laser).
+Create stunning lasershows (live or by timeline) with our free, open source and cross-platform software [osc2laser](https://github.com/goodtimes-code/osc2laser).
   - [Source code](https://github.com/goodtimes-code/osc2laser)
 
 ## laserpong
