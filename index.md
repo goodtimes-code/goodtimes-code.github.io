@@ -11,6 +11,10 @@ The **goodtimes | laser crew** is an international collective of laser enthusias
 Control showlasers live or by automation timeline with our free, open source and cross-platform software [osc2laser](https://github.com/goodtimes-code/osc2laser).
   - [Source code](https://github.com/goodtimes-code/osc2laser)
 
+## laserpong
+Play the classic arcade game *Pong* on a laser projector with two players. Draw virtual walls along your real-life obstacles to make the game more fun.
+  - [Source code](https://github.com/goodtimes-code/laserpong)
+
 ## msvg2ild
 Convert multiple SVG files into a single animated ILDA file (ild).
   - [Source code](https://github.com/goodtimes-code/msvg2ild)
