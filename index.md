@@ -3,6 +3,9 @@ layout: default
 title: "goodtimes | laser crew - lasershows, laser art, laser games, laser control software"
 ---
 
+# About us
+The **goodtimes | laser crew** is an international collective of laser enthusiasts and a movement for free laser software. Laser technology is our medium to provide people with good times.
+
 # Laser software
 ## osc2laser
 Control showlasers live or by automation timeline with our free, open source and cross-platform software [osc2laser](https://github.com/goodtimes-code/osc2laser).
