@@ -4,7 +4,7 @@ title: "goodtimes | laser crew - lasershows, laser art, laser games, laser contr
 ---
 
 # About us
-The **goodtimes | laser crew** is an international collective of laser enthusiasts and a movement for free laser software. Laser technology is our medium to provide people with good times. Join our [community](https://discord.gg/3JKDDWr9w6)!
+The **goodtimes | laser crew** is an international collective of laser enthusiasts and a movement for free laser software. Laser technology is our medium to provide people with good times. Join our [community](https://discord.gg/3JKDDWr9w6) or (if you enjoy our projects): become our [patreon](https://patreon.com/user?u=94591727)!
 
 # Laser software
 ## osc2laser
