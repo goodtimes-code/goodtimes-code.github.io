@@ -34,5 +34,5 @@ Convert multiple SVG files into a single animated ILDA file (ild).
 - [Animated Lines](https://www.animated-lines.com/en/) (animated ILDA files)
 
 # Contact
-- Community: [](https://community.goodtimes.technology/) (discussion, support)
+- [Community](https://community.goodtimes.technology/) (discussion, support)
 - Mail: service@goodtimes.technology (bookings, inquiries)
