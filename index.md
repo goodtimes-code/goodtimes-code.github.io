@@ -9,19 +9,13 @@ The **goodtimes | laser crew** is an international collective of laser enthusias
 # Laser software
 ## osc2laser
 Create stunning lasershows (live or by timeline) with our free, open source and cross-platform software [osc2laser](https://github.com/goodtimes-code/osc2laser).
-  - [Source code](https://github.com/goodtimes-code/osc2laser)
-  - [Community](https://community.goodtimes.technology/c/osc2laser/)
 
 ## laserpong
-Play the classic arcade game *Pong* on a laser projector with two players. Draw virtual walls along your real-life obstacles to make the game more fun.
-  - [Source code](https://github.com/goodtimes-code/laserpong)
-  - [Community](https://community.goodtimes.technology/c/laserpong/6)
+Play the classic arcade game *Pong* on a laser projector with two players. Draw virtual walls along your real-life obstacles to make the game more fun. Download [source code](https://github.com/goodtimes-code/laserpong) here.
 
 ## msvg2ild
-Convert multiple SVG files into a single animated ILDA file (ild).
-  - [Source code](https://github.com/goodtimes-code/msvg2ild)
-  - [Community](https://community.goodtimes.technology/c/msvg2ild/7)
-  
+Convert multiple SVG files into a single animated ILDA file (ild) with [msvg2ild](https://github.com/goodtimes-code/msvg2ild).
+
 # Lasershow ArtWorks
 - [Lasershow "Eye of the tiger"](https://www.youtube.com/watch?v=MXgKLad80P0) (Beam and graphic show to music)
 - [Lasershow "Whatever You Want"](https://www.youtube.com/watch?v=_5FiKHApgyw) (Lasershow as birthday present)
