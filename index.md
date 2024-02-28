@@ -4,7 +4,7 @@ title: "goodtimes | laser crew - lasershows, laser art, laser games, laser contr
 ---
 
 # About us
-The **goodtimes | laser crew** is an international collective of laser enthusiasts and a movement for free laser software. Laser technology is our medium to provide people with good times. Join our [community](https://community.goodtimes.technology/) or (if you enjoy our projects): become our [patreon](https://patreon.com/user?u=94591727)!
+The **goodtimes | laser crew** is an international collective of laser enthusiasts and a movement for free laser software. Laser technology is our medium to provide people with good times. Contact us or feel free to [donate via Paypal](https://www.paypal.com/paypalme/brittabaltz)!
 
 # Laser software
 ## osc2laser
@@ -28,5 +28,4 @@ Convert multiple SVG files into a single animated ILDA file (ild) with [msvg2ild
 - [Animated Lines](https://www.animated-lines.com/en/) (animated ILDA files)
 
 # Contact
-- [Community](https://community.goodtimes.technology/) (discussion, support)
 - Mail: service@goodtimes.technology (bookings, inquiries)
