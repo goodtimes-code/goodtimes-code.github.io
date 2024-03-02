@@ -1,0 +1,14 @@
+version: '3'
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    command: bash -c "bundle install && jekyll serve"
+    volumes:
+      - .:/srv/jekyll
+      - bundle_data:/usr/local/bundle
+    ports:
+      - "4000:4000"
+    environment:
+      JEKYLL_ENV: development
+volumes:
+  bundle_data:
