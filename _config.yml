@@ -7,3 +7,8 @@ title: goodtimes | laser crew
 description: "Interactive showlaser technology: lasershows, laser art, laser games, laser control software"
 url: "https://www.goodtimes.technology"
 logo: "assets/images/logo_goodtimes_smile.png"
+defaults:
+  - scope:
+      path: ""
+    values:
+      custom_css: "assets/css/custom.css"
