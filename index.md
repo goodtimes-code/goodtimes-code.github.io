@@ -6,7 +6,7 @@ title: "goodtimes | laser crew - lasershows, laser art, laser games, laser contr
 # Welcome to the goodtimes | laser crew
 The **goodtimes | laser crew** is an international collective of laser enthusiasts and a movement for free laser software. Laser technology is our medium to provide people with good times. Contact us or feel free to [donate via Paypal](https://www.paypal.com/paypalme/brittabaltz)!
 
-## Laser software
+## Lasershow software
 ### osc2laser
 Create stunning lasershows (live or by timeline) with our free, open source and cross-platform software [osc2laser](/osc2laser.html).
 
