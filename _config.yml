@@ -4,7 +4,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 title: goodtimes | laser crew
-description: "Interactive showlaser technology: lasershows, laser art, laser games, laser control software"
+description: "Interactive showlaser technology"
 url: "https://www.goodtimes.technology"
 logo: "assets/images/logo_goodtimes_smile.png"
 defaults:
@@ -12,3 +12,11 @@ defaults:
       path: ""
     values:
       custom_css: "assets/css/custom.css"
+header:
+  navigation:
+    - title: "Software"
+      url: "/#lasershow-software"
+    - title: "Artworks"
+      url: "/#lasershow-artworks"
+    - title: "Contact"
+      url: "/#contact"

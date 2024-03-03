@@ -3,7 +3,7 @@ layout: default
 title: "goodtimes | laser crew - lasershows, laser art, laser games, laser control software"
 ---
 
-# goodtimes | laser crew
+# Welcome to the goodtimes | laser crew
 The **goodtimes | laser crew** is an international collective of laser enthusiasts and a movement for free laser software. Laser technology is our medium to provide people with good times. Contact us or feel free to [donate via Paypal](https://www.paypal.com/paypalme/brittabaltz)!
 
 ## Laser software
