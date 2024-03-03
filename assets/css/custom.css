@@ -1,0 +1,24 @@
+.top-navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.top-navigation li {
+    float: left;
+    margin-right: 60px;
+}
+
+.top-navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    padding-left: 5px;
+    text-decoration: none;
+}
+
+.top-navigation li a:hover {
+    color: #b5e853;
+}
