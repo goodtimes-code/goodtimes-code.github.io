@@ -4,7 +4,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 title: goodtimes | laser crew
-description: "Interactive showlaser technology"
+description: "open source showlaser software"
 url: "https://www.goodtimes.technology"
 logo: "assets/images/logo_goodtimes_smile.png"
 defaults:
