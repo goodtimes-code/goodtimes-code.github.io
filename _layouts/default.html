@@ -20,13 +20,6 @@
       <br/>
       <span class="site-description">{{ site.description | default: site.github.project_tagline }}</span>
 
-      <nav>
-        <ul>
-          {% for nav_item in site.header.navigation %}
-            <li><a href="{{ nav_item.url }}">{{ nav_item.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
     </div>
   </header>  
 
