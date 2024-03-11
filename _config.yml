@@ -12,11 +12,3 @@ defaults:
       path: ""
     values:
       custom_css: "assets/css/custom.css"
-header:
-  navigation:
-    - title: "Software"
-      url: "/#lasershow-software"
-    - title: "Artworks"
-      url: "/#lasershow-artworks"
-    - title: "Contact"
-      url: "/#contact"
